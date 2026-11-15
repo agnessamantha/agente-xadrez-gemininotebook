@@ -1,6 +1,7 @@
 # Agente História do Xadrez
 assistente virtual que consiga tirar dúvidas sobre o xadrez, desde fundamentos, como surgiu, como já foi jogado e como é jogado atualmente.
 Fontes usadas foram as seguintes:
+
 Vídeos:
 https://youtu.be/Dh3tLbgonPI?si=eQc7-V9xXOAkOrj3
 https://youtu.be/J95yEVoTI3g?si=S1G17ngo2Dmh5lvM
