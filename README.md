@@ -61,4 +61,6 @@ Posso ajudar com:
 
 para essa, ele usou a fonte de texto 1, a fonte de vídeo 2 e a diretriz de comportamento que foi dada.
 
+link do notebook: https://notebook.google.com/notebook/792debf5-b47f-4a1c-894b-ab6e7f356bc2
+
 
